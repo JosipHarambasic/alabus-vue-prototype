@@ -1,0 +1,7 @@
+{
+  "name": "alabus-prototype-vuejs-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
